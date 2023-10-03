@@ -1,4 +1,4 @@
-# Meta Front-End Developer Proffesional Certificate
+# Meta Front-End Developer Professional Certificate
 
 This repository contains two extensive projects for the Meta Front-End Developer 
 Professional Certificate on Coursera (Personal Profile and the Final Capstone Project).
@@ -16,6 +16,10 @@ I also have organized all the Certifications I earned into each of the files sep
 7. [Principles of UX/UI Design](https://coursera.org/share/f226e588a176650265dbcced549d07b5)
 8. [Front-End Developer Capstone](https://coursera.org/share/a8c6a90f196bcd33d9284dc39d15635b)
 9. [Coding Interview Preparation]()
+
+   ### Front-End Developer Capstone Project
+
+   [Little Lemon Website Repository](https://github.com/YashPatki02/Little-Lemon)
 
 ## Meta Front-End Developer Professional Certificate
 
